@@ -1,2 +1,1 @@
-# ama
-Ask me anything
+# Ask me anything! 
